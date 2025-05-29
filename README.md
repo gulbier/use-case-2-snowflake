@@ -21,9 +21,9 @@
 
 ## Технологии
 
-- ❄️ [Snowflake](https://snowflake.com)
-- 📄 JSON данни
-- 🧠 SQL (FLATTEN, ARRAY, FILTER, JOIN)
+- [Snowflake](https://snowflake.com)
+- JSON данни
+- SQL (FLATTEN, ARRAY, FILTER, JOIN)
 
 ---
 
